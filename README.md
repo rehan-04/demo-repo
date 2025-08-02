@@ -1,5 +1,3 @@
 # demo-repo
-Repo for oractice 
+Repo for practice 
 Practice
-
-
